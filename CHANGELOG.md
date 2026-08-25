@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.15.1](https://github.com/croffasia/itsaplan/compare/v0.15.0...v0.15.1) (2026-08-25)
+
+
+### Documentation
+
+* run the Railway template from the published images ([#221](https://github.com/croffasia/itsaplan/issues/221)) ([5f19963](https://github.com/croffasia/itsaplan/commit/5f19963157260db4634999c253ac15d19dd5d6a7))
+
 ## [0.15.0](https://github.com/croffasia/itsaplan/compare/v0.14.0...v0.15.0) (2026-08-24)
 
 
